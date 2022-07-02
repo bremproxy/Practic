@@ -1,0 +1,13 @@
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.exe
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.deps.json
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.runtimeconfig.json
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.runtimeconfig.dev.json
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.dll
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\bin\Debug\netcoreapp3.1\yearandname.pdb
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.csprojAssemblyReference.cache
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.AssemblyInfoInputs.cache
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.AssemblyInfo.cs
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.csproj.CoreCompileInputs.cache
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.dll
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.pdb
+C:\Users\PichugovAV\source\repos\yearandname\yearandname\obj\Debug\netcoreapp3.1\yearandname.genruntimeconfig.cache
